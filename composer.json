@@ -1,0 +1,16 @@
+{
+    "name": "dhananjayvaidya/demo1",
+    "type": "project",
+    "description": "Demo of Project on Composer",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dhananjay vaidya",
+            "email": "jasonvaidya123@gmail.com",
+            "homepage": "https://dhananjayvaidya.com",
+            "role": "Developer"
+        }
+    ],
+}
